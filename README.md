@@ -17,6 +17,9 @@ when you type <F4>,this will add in the head of your source file,and when you ty
 
 Usage
 ---------
+* you need install The NERD Commenter first.
+ - url is : http://www.vim.org/scripts/script.php?script_id=1218
+
 * you need some config in vimrc:
  - let g:vimrc_author='example'
  - let g:vimrc_email='example@gmail.com'
